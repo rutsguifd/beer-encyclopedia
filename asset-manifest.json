@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beer-encyclopedia/static/css/main.75d7f4dc.css",
+    "main.js": "/beer-encyclopedia/static/js/main.1f1e4e9a.js",
+    "index.html": "/beer-encyclopedia/index.html",
+    "main.75d7f4dc.css.map": "/beer-encyclopedia/static/css/main.75d7f4dc.css.map",
+    "main.1f1e4e9a.js.map": "/beer-encyclopedia/static/js/main.1f1e4e9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75d7f4dc.css",
+    "static/js/main.1f1e4e9a.js"
+  ]
+}
