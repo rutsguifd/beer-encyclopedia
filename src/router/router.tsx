@@ -8,7 +8,7 @@ import ErrorPage from "../pages/ErrorPage";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/beer-encyclopedia",
     element: <HomePage />,
     errorElement: <ErrorPage />,
   },
