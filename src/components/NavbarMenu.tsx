@@ -47,7 +47,7 @@ const NavbarMenu: FC = () => {
           textDecoration: "none",
         }}
       >
-        <Link className={classes.link} to="/">
+        <Link className={classes.link} to="/beer-encyclopedia">
           BEER ENCYCLOPEDIA |
         </Link>
       </Typography>
@@ -132,7 +132,7 @@ const NavbarMenu: FC = () => {
           </MenuItem>
         </Menu>
       </Box>
-      <Link className={classes.link} to="/">
+      <Link className={classes.link} to="/beer-encyclopedia">
         <SportsBarOutlinedIcon
           sx={{ display: { xs: "flex", md: "none" }, mr: 1 }}
         />
